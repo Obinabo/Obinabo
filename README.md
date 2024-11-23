@@ -18,11 +18,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 =============================================================================================================================================
 
-I'm a Fullstack Web Programmer
+I'm a Fullstack Web Developer
 
 ------------------------------
 
-I've long learned and practiced with php.. Have lots of php projects under my belt. Diving deeper into backend development with Laravel.
+I've long learned and practiced with php, Javascript and React Js.. Have lots of php projects under my belt. Diving deeper into backend development with Node Js.
 
 * 🌍  I'm based in Awka
 
